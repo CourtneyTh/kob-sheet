@@ -1,0 +1,13 @@
+.sheet {
+    height: 300px;
+    width: 300px;
+    background: grey;
+    border-radius: 0px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #1f1f1f;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
