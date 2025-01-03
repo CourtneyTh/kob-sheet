@@ -1,6 +1,6 @@
 .app {
   min-height: 100vh;
-  background: rgb(95, 167, 190);
+  background: white;
   display: flex;
   justify-content: space-around;
   align-items: center;
